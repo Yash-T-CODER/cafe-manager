@@ -1,1 +1,1 @@
-# cafe-manager
+Py Cafee is a simple Python console-based café ordering system. It displays a menu of items with prices, takes user orders interactively, allows multiple items to be ordered, and calculates the total bill using functools.reduce. The program uses basic Python features like dictionaries, loops, conditional statements, and time delays to create a realistic ordering experience. Ideal for beginners learning Python.
